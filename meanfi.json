@@ -1,0 +1,39 @@
+{
+  "name": "MEAN Coin WL",
+  "symbol": "MEAN",
+  "description": "Solana's Cutest Ambassador!\nCongratulations. Your wallet address has earned WhiteList rights.\nMint for free now before your mint expires.👇",
+  "seller_fee_basis_points": 100,
+  "external_url": "https://meanfi.netlify.app/",
+  "edition": "Alpha",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Floor",
+      "value": "15.7 SOL"
+    },
+    {
+      "trait_type": "White List",
+      "value": "Free"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "2aX13D7PqVUkCG9MW7S6XiZBPUDw4sSki4EqCFpgiUfD",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MEANeD3XDdUmNMsRGjASkSWdC8prLYsoRJ61pPeHctD/logo.svg",
+        "file_type": "image/gif"
+      }
+    ]
+  },
+  "collection": {
+    "name": "MEAN",
+    "family": "WhiteList"
+  },
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MEANeD3XDdUmNMsRGjASkSWdC8prLYsoRJ61pPeHctD/logo.svg"
+}
